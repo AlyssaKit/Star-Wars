@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
+@import url('https://fonts.cdnfonts.com/css/sf-distant-galaxy');
+
+body {
+  margin: 0;
+  font-family: 'Exo', sans-serif;
+  color:white;
+  background-image: url(best-zoom-backgrounds-free-star-wars-starfield-1587416939.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 15px;
+}
+

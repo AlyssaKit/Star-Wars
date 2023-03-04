@@ -1,0 +1,106 @@
+.homeStar{
+    font-size: 90px;
+    text-align: center;
+    color: yellow;
+    padding:0px;
+    margin:20px;
+}
+.homeContent{
+    text-align: center;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    float: center;
+    padding: 0px 0px 0px 0px;
+    margin:0px;
+}
+.home {
+    text-align: center;
+    float: center;
+    padding: 50px 0px 0px 0px;
+}
+.p1{
+    font-size: 30px;
+}
+.p2{
+    font-size: 40px;
+}
+.p3{
+    font-size: 50px;
+}
+.p4{
+    font-size: 60px;
+}
+/* navbar css */
+.Nav-But {
+    color: white;
+    border-image: linear-gradient(#EB212E, rgb(247, 157, 157))1 100%;
+    border-width: 0 4px 0 0;
+    border-style: solid;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    float: left;
+    font-size: 20px;
+  }
+.navbar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    width: 100%;
+}
+li a:hover {
+    background-image: radial-gradient(#2FF924,#6fdb44, #ace99d);
+    color: black;
+  }
+.active {
+    background-image: radial-gradient(#2663fc,#4c75dd, #92aff8);
+}
+.page-Break{
+    padding:0px 20px 0px 0px;
+    margin-top:47px;
+    height:1500px;
+}
+.page-Head {
+    font-family: 'SF Distant Galaxy Outline', sans-serif;
+}
+
+
+/*side bar css*/
+.side-Nav-but {
+    display: block;
+    color: rgb(236, 230, 230);
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.side-Nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 20%;
+    background-color: #63635e;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+.side-Nav-break{
+    margin-left:25%;
+    padding:1px 16px;
+}
+.side-Nav-but.active {
+    background-image: radial-gradient(#EB212E,#ec404c, rgb(247, 157, 157));
+    color: white;
+}
+.scrolling {
+    overflow: auto;
+}
+
+/*body link css*/
+.bodyLink {
+    color:red;
+}
